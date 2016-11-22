@@ -9,6 +9,6 @@ http://www.ElectricRCAircraftGuy.com
 
 Donate & Download -- a few of my Arduino Libraries and downloads:  https://gumroad.com/gabrielstaples  
 (Or, [donate directly](http://www.electricrcaircraftguy.com/2016/01/contribute.html))  
-By: Gabriel Staples  
+
 Readme Last Updated: 21 Nov 2016  
 
